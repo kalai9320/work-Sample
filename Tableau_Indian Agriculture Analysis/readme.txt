@@ -23,7 +23,7 @@ Data Analysis Notes:
 •	By selecting the correct option in the filter, we can get relevant data to analyse.
 •	This Tableau Data analysis story contain four story point such as Information, Zone and state crop production analysis, State vs. Crop Production, Crops Analysis, Crop-harvesting states, and conclusion.
 Acknowledgement
-Data collected from the Ministry of Agriculture and Farmers Welfare of India
+Data collected from the Ministry of Agriculture and Farmers Welfare of India. All dataset Credits goes to orginal owners.
 
 
 Thank you
